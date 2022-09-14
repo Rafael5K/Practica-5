@@ -1,2 +1,2 @@
 # Practica-5
-tarae
+practica
